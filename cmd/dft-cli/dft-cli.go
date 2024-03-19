@@ -60,9 +60,9 @@ func main() {
 	}
 
 	adapter, err := api.GetDefaultAdapter()
-	if err != nil {
-		log.Fatalf("Failed to get default adapter: %s", err)
-	}
+	//if err != nil {
+	//	log.Fatalf("Failed to get default adapter: %s", err)
+	//}
 
 	dev, err := adapter.GetDeviceByAddress(*addr)
 	if err != nil {
