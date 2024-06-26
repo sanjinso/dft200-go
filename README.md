@@ -43,7 +43,7 @@ Alternatively, you can use a bluetoothd GUI like Gnome's native applet, blueberr
 
 Install to `$GOPATH/bin`:
 
-    go install github.com/leoluk/dft200-go/cmd/dft-cli
+    go install github.com/sanjinso/dft200-go/cmd/dft-cli
 
 ## Usage
 
