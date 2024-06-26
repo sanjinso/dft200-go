@@ -1,4 +1,4 @@
-module github.com/leoluk/dft200-go
+module github.com/snjinso/dft200-go
 
 go 1.18
 
